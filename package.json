@@ -25,5 +25,8 @@
     "url": "https://github.com/dofy/cn.yunjiai.kb2gio/issues",
     "email": "dofyyu@gmail.com"
   },
-  "repository": "git@github.com:dofy/cn.yunjiai.kb2gio.git"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dofy/cn.yunjiai.kb2gio.git"
+  }
 }
