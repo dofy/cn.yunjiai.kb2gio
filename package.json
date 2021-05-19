@@ -1,6 +1,6 @@
 {
   "name": "kb2gio",
-  "version": "0.1.1",
+  "version": "1.2.0",
   "description": "KeBing Excel to GrowingIO Excel (yunjiai.cn)",
   "bin": {
     "kb2gio": "bin/kb2gio"
