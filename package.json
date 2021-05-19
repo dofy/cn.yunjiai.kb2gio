@@ -17,10 +17,8 @@
   "author": "Seven Yu <dofyyu@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "log-update": "^4.0.0",
     "xlsx": "^0.17.0",
-    "yargs": "^17.0.1",
-    "yargs-parser": "^20.2.7"
+    "yargs": "^17.0.1"
   },
   "repository": "git@github.com:dofy/cn.yunjiai.kb2gio.git"
 }

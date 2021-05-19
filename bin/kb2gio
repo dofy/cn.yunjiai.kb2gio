@@ -40,7 +40,7 @@ FileTransfer(
     .example(
       'kb2gio -f ~/download/KeBing.xlsx -o ~/works/yunji/importToGrowingIO.xlsx',
     )
-    .example('kb2gio -f ~/kebin.xlsx -o ~/growingio.xlsx -e ~/eventIDs.txt')
-    .example('kb2gio -f ~/kebin.xlsx -o ~/growingio.xlsx -r PC')
+    .example('kb2gio -f ~/kebing.xlsx -o ~/growingio.xlsx -e ~/eventIDs.txt')
+    .example('kb2gio -f ~/kebing.xlsx -o ~/growingio.xlsx -r PC')
     .epilog('copyright (c) 2021 Seven Yu').argv,
 )

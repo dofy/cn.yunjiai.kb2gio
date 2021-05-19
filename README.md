@@ -3,13 +3,22 @@
 ## Install
 
 ```bash
-npm install -g kb2gio
+npm install kb2gio -g
 ```
 
 OR
 
 ```bash
-yarn add global kb2gio
+yarn global add kb2gio
+```
+
+## Run
+
+```bash
+# show help
+kb2gio -h
+# show version
+kb2gio -v
 ```
 
 ## Help
