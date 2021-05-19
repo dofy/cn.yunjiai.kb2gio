@@ -1,0 +1,26 @@
+{
+  "name": "kb2gio",
+  "version": "0.1.1",
+  "description": "KeBing Excel to GrowingIO Excel (yunjiai.cn)",
+  "bin": {
+    "kb2gio": "bin/kb2gio"
+  },
+  "keywords": [
+    "yunji",
+    "yunjiai",
+    "excel",
+    "transfer",
+    "growingio",
+    "cli",
+    "command"
+  ],
+  "author": "Seven Yu <dofyyu@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "log-update": "^4.0.0",
+    "xlsx": "^0.17.0",
+    "yargs": "^17.0.1",
+    "yargs-parser": "^20.2.7"
+  },
+  "repository": "git@github.com:dofy/cn.yunjiai.kb2gio.git"
+}
